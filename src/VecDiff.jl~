@@ -1,0 +1,5 @@
+module VecDiff
+
+greet() = print("Hello World!")
+
+end # module
